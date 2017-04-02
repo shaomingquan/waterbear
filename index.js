@@ -10,7 +10,6 @@
         for(var i = 0; i < vars.length ;i++) {
             varEvalList += `var ${vars[i]} = ${JSON.stringify(data[vars[i]])};`;
         }
-        eval(varEvalList); //exports the vars
         var output = ''; // may be uglify bug
         var code = '';
         var index = 0;
