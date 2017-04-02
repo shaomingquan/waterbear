@@ -1,6 +1,6 @@
 {
   "name": "waterbear",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "very very tiny tpl function ,ejs like",
   "main": "index.js",
   "scripts": {
