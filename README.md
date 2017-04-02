@@ -1,6 +1,11 @@
 # waterbear
 
-it's tiny as a small bug. but not slow at all.
+it's tiny as a small bug. but more fast.
+
+```
+ejs: 16.494ms
+waterbear: 2.457ms
+```
 
 features as base ejs
 - Control flow with `<% %>`.

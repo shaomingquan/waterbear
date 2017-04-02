@@ -30,7 +30,6 @@
             tpl = tpl.substring(index + 2);
         }
         try {
-            console.log(varEvalList + code);
             eval(varEvalList + code);
         } catch (e) { console.error(e); }
         return output;
