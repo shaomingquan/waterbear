@@ -1,6 +1,6 @@
 # waterbear
 
-it's tiny as a small bug. but more fast.
+it's tiny as a small bug. but much faster.
 
 ```
 ejs: 16.494ms
